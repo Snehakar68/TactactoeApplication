@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TactactoeApplication" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="android:colorPrimaryDark">@color/purple_700</item>
+        <item name="android:colorPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="android:colorSecondary">@color/teal_200</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryDark</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
